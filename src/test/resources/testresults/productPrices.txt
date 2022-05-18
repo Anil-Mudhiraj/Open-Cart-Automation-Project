@@ -1,0 +1,3 @@
+Price in pound sterling : £148.22
+Price in Euro  : 189.86€
+Price in Euro  : $241.99

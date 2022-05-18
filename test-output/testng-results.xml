@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-18T17:31:37 IST" name="Default suite" finished-at="2022-05-18T17:32:15 IST" duration-ms="37982">
+    <groups>
+    </groups>
+    <test started-at="2022-05-18T17:31:37 IST" name="Default test" finished-at="2022-05-18T17:32:15 IST" duration-ms="37982">
+      <class name="com.wipro.testcases.TC01">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:com.wipro.testcases.TC01@1b7cc17c]" started-at="2022-05-18T17:31:37 IST" name="setUpTest" finished-at="2022-05-18T17:31:41 IST" duration-ms="4242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="testRegistrationOfCustomer()[pri:1, instance:com.wipro.testcases.TC01@1b7cc17c]" started-at="2022-05-18T17:31:41 IST" name="testRegistrationOfCustomer" finished-at="2022-05-18T17:31:53 IST" duration-ms="11711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistrationOfCustomer -->
+        <test-method signature="testContactUsFunctionality()[pri:2, instance:com.wipro.testcases.TC01@1b7cc17c]" started-at="2022-05-18T17:31:53 IST" name="testContactUsFunctionality" finished-at="2022-05-18T17:31:57 IST" duration-ms="3842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactUsFunctionality -->
+        <test-method signature="testReviewProductFunctionality()[pri:3, instance:com.wipro.testcases.TC01@1b7cc17c]" started-at="2022-05-18T17:31:57 IST" name="testReviewProductFunctionality" finished-at="2022-05-18T17:32:10 IST" duration-ms="13159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReviewProductFunctionality -->
+        <test-method signature="testAddToCart()[pri:4, instance:com.wipro.testcases.TC01@1b7cc17c]" started-at="2022-05-18T17:32:10 IST" name="testAddToCart" finished-at="2022-05-18T17:32:15 IST" duration-ms="4961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+      </class> <!-- com.wipro.testcases.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
